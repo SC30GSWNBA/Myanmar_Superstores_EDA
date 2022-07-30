@@ -1,7 +1,9 @@
 # Myanmar_Superstores_EDA
 Analyzing Supermarket Sales data across various stores in Myanmar
 
-The dataset consists of a list of items sold for a Supermarket across cities of Myanmar:
+The dataset consists of a list of items sold for a Supermarket across cities of Myanmar. As a Data Scientist we are suppose to Analyze various facets of the dataset in detail and if possible recommend/suggest ways to increase sales across these stores based on data provided.
+
+**List of Attributes-**
 
 **Invoice ID:** Computer generated sales slip invoice identification number
 
